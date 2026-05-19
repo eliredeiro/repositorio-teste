@@ -1,1 +1,3 @@
-olá, meu é Eliane
+Bom dia, meu é Eliane
+
+Hoje aprendemos git e github
